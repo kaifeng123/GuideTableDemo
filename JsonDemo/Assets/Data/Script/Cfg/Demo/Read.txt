@@ -1,0 +1,6 @@
+一个xlsx表通过工具自动生成这样的两个类
+其中	Table文件夹里面的 BaseCfgHelper,ICfg,ICfgObject,TableToType
+        Util文件里面的ListUtil,PureSingleton
+是自动生成的两个读json文件必备的配置脚本,
+其中BaseCfgHelper类:
+读取json文本是从Resources文件夹下面读的.在LoadConfig方法里面,可以在里面修改读取json的方式
