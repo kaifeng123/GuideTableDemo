@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\CSScripts",
+    "\\bin\\Debug\\CSScripts\\Copy",
+    "\\src",
+    "\\src\\Bytes",
+    "\\src\\CSharp",
+    "\\src\\Lua"
+  ],
+  "SelectedNode": "\\src\\CSharp\\CreateCSharpConfigStyle.cs",
+  "PreviewInSolutionExplorer": false
+}
